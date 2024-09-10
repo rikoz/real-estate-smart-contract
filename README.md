@@ -35,6 +35,7 @@ The contracts are deployed on the Sepolia testnet:
 
 - NGNToken: `0xBcccFFe91e3e9fC289ce6179A8BBF4b351579233`
 - NigeriaGovernment: `0x02f5F8b77aaEd3C3D96425C29058c1aefC8d3eE2`
+- SampleProperty1: `0xAaa6c2C33a9A35b26746f8561cF8DfD6541DdEe7`
 
 ## Author
 
